@@ -9,15 +9,18 @@ _Once DOTween is imported go in **Tools** > **Demigiant** and a panel will appea
 
 <details>
   <summary>Cross menu preview</summary>
+  
   ![Cross menu preview](https://i.imgur.com/cIGONIY.gif)
 </details>
 
 <details>
   <summary>Sequence menu preview</summary>
+  
   ![Sequence menu preview](https://i.imgur.com/nLMP4Mc.gif)
 </details>
 
 <details>
   <summary>Sequence menu preview</summary>
+  
   ![Sliding menu preview](https://i.imgur.com/jMYCGQi.gif)
 </details>
