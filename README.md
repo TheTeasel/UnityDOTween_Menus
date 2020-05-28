@@ -7,7 +7,11 @@ _Once DOTween is imported go in **Tools** > **Demigiant** and a panel will appea
 
 ### Menu previews
 **Cross**
-
+<details>
+  <summary>Cross menu preview</summary>
+  
+  ![Cross menu preview](https://i.imgur.com/cIGONIY.gif)
+</details>
 **Sequence**
 <details>
   <summary>Sequence menu preview</summary>
