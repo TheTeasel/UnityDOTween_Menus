@@ -3,7 +3,7 @@ This project contains exemples of menu for a Unity project. All these menus are 
 
 You can directly import the whole project from the Asset Store [here]().
 
-_Once DOTween imported go in **Tools** > **Demigiant** and a panel will appear. Click on the Setup DOTween button at the top._
+_Once DOTween is imported go in **Tools** > **Demigiant** and a panel will appear. Click on the Setup DOTween button at the top._
 
 ### Menu previews
 **Cross**
