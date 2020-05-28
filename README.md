@@ -1,8 +1,7 @@
 # Unity menus templates
 This project exemples of menu for a Unity project. All these menus are animated using DOTween
 
-# Import from the Unity's Asset Store
-You can directly import the project from the Asset Store.
+You can directly import the project from the Asset Store [here]().
 
 # Before using the project
 ### Setup DOTween
