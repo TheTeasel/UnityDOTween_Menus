@@ -6,19 +6,17 @@ You can directly import the whole project from the Asset Store [here]().
 _Once DOTween is imported go in **Tools** > **Demigiant** and a panel will appear. Click on the Setup DOTween button at the top._
 
 ### Menu previews
-**Cross**
+
 <details>
   <summary>Cross menu preview</summary>
   ![Cross menu preview](https://i.imgur.com/cIGONIY.gif)
 </details>
 
-**Sequence**
 <details>
   <summary>Sequence menu preview</summary>
   ![Sequence menu preview](https://i.imgur.com/nLMP4Mc.gif)
 </details>
 
-**Sliding**
 <details>
   <summary>Sequence menu preview</summary>
   ![Sliding menu preview](https://i.imgur.com/jMYCGQi.gif)
