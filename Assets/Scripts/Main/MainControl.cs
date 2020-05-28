@@ -19,4 +19,9 @@ public class MainControl : MonoBehaviour
     {
         SceneManager.LoadScene("Sliding");
     }
+
+    public void btnTab_Click()
+    {
+        SceneManager.LoadScene("Tab");
+    }
 }
