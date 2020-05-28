@@ -8,10 +8,10 @@ In order to make the project work, you must first import DOTween from the Asset 
 
 Once DOTween imported go in **Tools** > **Demigiant** and a panel will appear. Click on the Setup DOTween button at the top.
 
-# Menu previews
-### Cross
+### Menu previews
+##### Cross
 
-### Sequence
+##### Sequence
 
-### Sliding
+##### Sliding
 
