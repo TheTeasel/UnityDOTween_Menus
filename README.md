@@ -1,7 +1,5 @@
 ### Welcome to Teasel's Unity Menu Collection
-This project contains exemples of menu for a Unity project. All these menus are animated using DOTween
-
-_In order to make the project work, please go in **Tools** > **Demigiant** and a panel will appear. Click on the Setup DOTween button at the top._
+This project contains examples of menu for a Unity project. All these menus are animated using DOTween
 
 ### Menu previews
 
@@ -21,4 +19,10 @@ _In order to make the project work, please go in **Tools** > **Demigiant** and a
   <summary>Sequence menu preview</summary>
   
   ![Sliding menu preview](https://i.imgur.com/jMYCGQi.gif)
+</details>
+
+<details>
+  <summary>Tab menu preview</summary>
+  
+  ![Tab menu preview](https://i.imgur.com/Z7ML7oO.gif)
 </details>
