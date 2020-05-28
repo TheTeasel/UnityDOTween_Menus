@@ -20,3 +20,9 @@ This project contains examples of menu for a Unity project. All these menus are 
   
   ![Sliding menu preview](https://i.imgur.com/jMYCGQi.gif)
 </details>
+
+<details>
+  <summary>Tab menu preview</summary>
+  
+  ![Tab menu preview](https://i.imgur.com/Z7ML7oO.gif)
+</details>
