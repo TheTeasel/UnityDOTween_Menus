@@ -12,6 +12,15 @@ Once DOTween imported go in **Tools** > **Demigiant** and a panel will appear. C
 **Cross**
 
 **Sequence**
-![Sequence menu preview](https://i.imgur.com/nLMP4Mc.gif)
+<details>
+  <summary>Sequence menu preview</summary>
+  
+  ![Sequence menu preview](https://i.imgur.com/nLMP4Mc.gif)
+</details>
+
 **Sliding**
-![Sliding menu preview](https://i.imgur.com/jMYCGQi.gif)
+<details>
+  <summary>Sequence menu preview</summary>
+  
+  ![Sliding menu preview](https://i.imgur.com/jMYCGQi.gif)
+</details>
