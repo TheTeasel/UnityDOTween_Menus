@@ -1,16 +1,24 @@
 ### Welcome to Teasel's Unity Menu Collection
 This project contains exemples of menu for a Unity project. All these menus are animated using DOTween
 
-You can directly import the whole project from the Asset Store [here]().
-
-### Setup DOTween
-In order to make the project work, you must first import DOTween from the Asset Store ([here for the lazies](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)).
-
-Once DOTween imported go in **Tools** > **Demigiant** and a panel will appear. Click on the Setup DOTween button at the top.
+_In order to make the project work, please go in **Tools** > **Demigiant** and a panel will appear. Click on the Setup DOTween button at the top._
 
 ### Menu previews
-**Cross**
 
-**Sequence**
+<details>
+  <summary>Cross menu preview</summary>
+  
+  ![Cross menu preview](https://i.imgur.com/cIGONIY.gif)
+</details>
 
-**Sliding**
+<details>
+  <summary>Sequence menu preview</summary>
+  
+  ![Sequence menu preview](https://i.imgur.com/nLMP4Mc.gif)
+</details>
+
+<details>
+  <summary>Sequence menu preview</summary>
+  
+  ![Sliding menu preview](https://i.imgur.com/jMYCGQi.gif)
+</details>
