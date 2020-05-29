@@ -26,3 +26,9 @@ This project contains examples of menu for a Unity project. All these menus are 
   
   ![Tab menu preview](https://i.imgur.com/Z7ML7oO.gif)
 </details>
+
+<details>
+  <summary>Tile menu preview</summary>
+  
+  ![Tile menu preview](https://i.imgur.com/8sKsQxW.gif)
+</details>
