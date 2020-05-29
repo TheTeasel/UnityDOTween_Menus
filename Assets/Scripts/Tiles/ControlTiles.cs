@@ -37,6 +37,9 @@ public class ControlTiles : MonoBehaviour
         ShowMenu(0.3f);
     }
 
+    /// <summary>
+    /// Hide the menu outside of the canvas
+    /// </summary>
     private void HideMenu()
     {
         rectMenuTitle.DOAnchorPosX(-rectMenuTitle.rect.width * 2, 0f);
@@ -47,6 +50,10 @@ public class ControlTiles : MonoBehaviour
         rectMenuTile5.DOAnchorPosX(rectMenuTile5.rect.width * 2, 0f);
     }
 
+    /// <summary>
+    /// Show the menu
+    /// </summary>
+    /// <param name="delay">Delay before showing the menu</param>
     private void ShowMenu(float delay = 0f)
     {
         rectMenuTile1.DOAnchorPosX(0, 1f).SetDelay(delay);
@@ -61,27 +68,27 @@ public class ControlTiles : MonoBehaviour
 
     public void btnTile1_Click()
     {
-
+        //Do something... Load a scene for example
     }
 
     public void btnTile2_Click()
     {
-
+        //Do something... Load a scene for example
     }
 
     public void btnTile3_Click()
     {
-
+        //Do something... Load a scene for example
     }
 
     public void btnTile4_Click()
     {
-
+        //Do something... Load a scene for example
     }
 
     public void btnTile5_Click()
     {
-
+        //Do something... Load a scene for example
     }
     #endregion
 }

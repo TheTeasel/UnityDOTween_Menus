@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class ControlTab : MonoBehaviour
 {
+    //Store the current displayed menu
     private int currentMenu = 1;
 
     public void tabMenu1_Click()
     {
+        //Check if user try to display current menu again
         if(currentMenu != 1)
         {
             HideCurrentMenu();
@@ -18,6 +20,7 @@ public class ControlTab : MonoBehaviour
 
     public void tabMenu2_Click()
     {
+        //Check if user try to display current menu again
         if (currentMenu != 2)
         {
             HideCurrentMenu();
@@ -28,6 +31,7 @@ public class ControlTab : MonoBehaviour
 
     public void tabMenu3_Click()
     {
+        //Check if user try to display current menu again
         if (currentMenu != 3)
         {
             HideCurrentMenu();
@@ -36,6 +40,9 @@ public class ControlTab : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Hide the current menu
+    /// </summary>
     private void HideCurrentMenu()
     {
         switch(currentMenu)
