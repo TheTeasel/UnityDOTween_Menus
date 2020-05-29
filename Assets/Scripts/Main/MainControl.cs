@@ -24,4 +24,9 @@ public class MainControl : MonoBehaviour
     {
         SceneManager.LoadScene("Tab");
     }
+
+    public void btnTiles_Click()
+    {
+        SceneManager.LoadScene("Tiles");
+    }
 }

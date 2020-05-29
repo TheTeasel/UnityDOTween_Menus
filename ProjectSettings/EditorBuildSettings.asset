@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Tab.unity
     guid: c28178f5f1ae70742ad6c1b45c9fc181
+  - enabled: 1
+    path: Assets/Scenes/Tiles.unity
+    guid: 5fb1db1f7d0a5404b8c2dca5f204a3aa
   m_configObjects: {}
