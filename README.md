@@ -18,7 +18,7 @@ _Note: I had to limit the FPS for the previews. This looks way nice in Unity_
 </details>
 
 <details>
-  <summary>Sequence menu preview</summary>
+  <summary>Sliding menu preview</summary>
   
   ![Sliding menu preview](https://i.imgur.com/jMYCGQi.gif)
 </details>
