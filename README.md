@@ -1,7 +1,7 @@
 ### Welcome to Teasel's Unity Menu Collection
 This project contains examples of menu for a Unity project. All these menus are animated using DOTween.
 
-_Note: I had to limit the FPS for the previews. This looks way niceer in Unity_
+_Note: I had to limit the FPS for the previews. This looks way nicer in Unity_
 
 ### Menu previews
 
